@@ -16,3 +16,6 @@
 
 ## 토큰 이코노미
 ![tocken economy](https://raw.githubusercontent.com/cokia/ETHSNAIL/master/Tocken%20Economy.jpg)
+
+## TMI
+위 프젝은 국민대학교 OSS 동계 캠프에서 시작되었으며, 꾸준히 개발할 예정입니다 ~~(가능하다면 읍읍!)~~
