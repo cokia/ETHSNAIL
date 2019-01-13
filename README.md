@@ -19,4 +19,4 @@
 * we are **K.H.Lee**, **W.Y.Han**, **J.I.Ahn**, **T.I.Yun**, **S.M.Lee**
 
 ## P.S.
-This project was started at Kookmin University SW Winter Camp with OSS Developer Forum and will be developed continuously. ~(if possible...)~~
+This project was started at Kookmin University SW Winter Camp with OSS Developer Forum and will be developed continuously. ~~(if possible...)~~
