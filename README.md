@@ -20,6 +20,3 @@
 
 ## P.S.
 This project was started at Kookmin University SW Winter Camp with OSS Developer Forum and will be developed continuously. ~(if possible...)~~
-
-## TMI
-This project was started at Kookmin University SW Winter Camp with OSS Developer Forum and will be developed steadily ~~(if possible...)~~
