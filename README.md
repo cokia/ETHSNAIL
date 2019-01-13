@@ -1,21 +1,26 @@
 # ETHSNAIL
 
-~~(사실 그 누구도 어떻게 발음하는지 모릅니다 읍읍...)~~ ~~(에뜨네일)~~
+~~(No one actually knows how to pronounce it....)~~
 
 ---------
 
-## 현재의 문제점
-   * 사설 토토나 도박은 먹튀가 너무많음
-   * 국내의 경우 불법적이다 보니 제한도 없다. 
-   * 운영자의 조작 가능성도 있음
+## The Problem
+   * There is a lot of corruption in the gambling system.
+   * In Korea, there is no restriction because it is illegal.
+   * Operators are highly likely to be operated.
 
-## 해결방안은?
-* 운영자가 손을 댈 수 없는 완전한 **탈 중앙화** 된 플랫폼을 이용하면된다.
-* 그리고, 모든 배당률이나 조작의 논란이 있는부분을 100% 공개된 코드 내에서 실행한다
+## How To Solve It?
+* It can use a completely **decentralized** platform that operators cannot touch.
+* And, any controversial portion of the dividend rate or manipulation is executed within a 100% publicized code.
 * ** Profit! **
 
-## 토큰 이코노미
+## Token Economy
 ![tocken economy](https://raw.githubusercontent.com/cokia/ETHSNAIL/master/Tocken%20Economy.jpg)
+* we are **K.H.Lee**, **W.Y.Han**, **J.I.Ahn**, **T.I.Yun**, **S.M.Lee**
+
+## P.S.
+This project was started at Kookmin University SW Winter Camp with OSS Developer Forum and will be developed continuously. ~(if possible...)~~
 
 ## TMI
 위 프젝은 국민대학교 OSS 동계 캠프에서 시작되었으며, 꾸준히 개발할 예정입니다 ~~(가능하다면 읍읍!)~~
+
