@@ -1,5 +1,5 @@
 #ETHSNAIL
-~~(사실 그 누구도 어떻게 발음하는지 모릅니다 읍읍...)~~
+~~(사실 그 누구도 어떻게 발음하는지 모릅니다 읍읍...)~~ ~~(에뜨스네일)~~
 
 ---------
 
@@ -14,3 +14,4 @@
 * ** Profit! **
 
 ## 토큰 이코노미
+![tocken economy](https://raw.githubusercontent.com/cokia/ETHSNAIL/master/Tocken%20Economy.jpg)
