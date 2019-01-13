@@ -20,3 +20,7 @@
 
 ## P.S.
 This project was started at Kookmin University SW Winter Camp with OSS Developer Forum and will be developed continuously. ~(if possible...)~~
+
+## TMI
+위 프젝은 국민대학교 OSS 동계 캠프에서 시작되었으며, 꾸준히 개발할 예정입니다 ~~(가능하다면 읍읍!)~~
+
