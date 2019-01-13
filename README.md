@@ -17,3 +17,6 @@
 ## Token Economy
 ![tocken economy](https://raw.githubusercontent.com/cokia/ETHSNAIL/master/Tocken%20Economy.jpg)
 * we are **K.H.Lee**, **W.Y.Han**, **J.I.Ahn**, **T.I.Yun**, **S.M.Lee**
+
+## P.S.
+This project was started at Kookmin University SW Winter Camp with OSS Developer Forum and will be developed continuously. ~(Uk-up, if possible)~~
