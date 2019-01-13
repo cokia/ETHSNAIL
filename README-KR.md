@@ -5,7 +5,7 @@
 ---------
 
 ## 현재의 문제점
-   * 사설 토토나 도박은 먹튀가 너무많음
+   * 사설 토토나 도박은 먹튀가 너무많음A
    * 국내의 경우 불법적이다 보니 제한도 없다. 
    * 운영자의 조작 가능성도 있음
 
@@ -16,3 +16,6 @@
 
 ## 토큰 이코노미
 ![tocken economy](https://raw.githubusercontent.com/cokia/ETHSNAIL/master/Tocken%20Economy.jpg)
+
+## TMI
+위 프젝은 국민대학교 OSS 동계 캠프에서 시작되었으며, 꾸준히 개발할 예정입니다 ~~(가능하다면 읍읍!)~~
