@@ -14,4 +14,4 @@
 * ** Profit! **
 
 ## 토큰 이코노미
-<img src="/cokia/ETHSNAIL/blob/master/Tocken%20Economy.jpeg?raw=true" alt="Tocken Economy.jpeg">
+![tocken economy](https://raw.githubusercontent.com/cokia/ETHSNAIL/master/Tocken%20Economy.jpg)
